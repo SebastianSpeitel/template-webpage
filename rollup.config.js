@@ -15,8 +15,8 @@ export default {
     copy({
       targets: [
         {
-          src: "index.html",
-          dest: "../dist"
+          src: "src/index.html",
+          dest: "dist"
         },
         {
           src: "node_modules/materialize-css/dist/css/materialize.min.css",
