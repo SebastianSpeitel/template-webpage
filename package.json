@@ -16,7 +16,7 @@
   "license": "UNLICENSED",
   "devDependencies": {
     "@rollup/plugin-typescript": "^3.0.0",
-    "materialize-css": "^1.0.0",
+    "materialize-css": "^1.0.0-rc.2",
     "rollup": "^1.31.0",
     "rollup-plugin-copy": "^3.3.0",
     "rollup-plugin-scss": "^2.1.0",
